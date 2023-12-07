@@ -26,7 +26,7 @@ This course includes a series of practical labs to reinforce the theoretical con
 ## Resources
 
 Included in this repository are additional resources and reading materials related to the course topics.
-
+Additionally, for those seeking clear and visual explanations of broad discrete mathematics topics, the [Neso Academy YouTube playlist](https://www.youtube.com/watch?v=p2b2Vb-cYCs&list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3&ab_channel=NesoAcademy) is a highly recommended resource.
 ## Reference
 
 For more information about the course, please visit the [official course website](https://ipads.se.sjtu.edu.cn/courses/cdm/cdm-2022/index.shtml).
